@@ -26,3 +26,17 @@ Database: MySQL (for backend data storage)
 UI Framework: Tkinter (for GUI development)
 
 Other Dependencies: Pillow, SQLite3
+
+Sample Output:
+![image](https://github.com/user-attachments/assets/a7fe56c8-76c6-4042-8bfc-0433c869a448)
+![image](https://github.com/user-attachments/assets/f7e8c8bf-bc18-4efc-8862-3540ce92b283)
+![image](https://github.com/user-attachments/assets/092377a4-561b-4efa-bc54-207188416daa)
+![image](https://github.com/user-attachments/assets/6ac117ca-4e23-4be2-89fe-c983617e4680)
+![image](https://github.com/user-attachments/assets/04115ac6-98d4-4455-b49e-8233a667d346)
+![image](https://github.com/user-attachments/assets/dc49713c-c98d-4a3e-a331-62fd46e30501)
+
+
+
+
+
+
